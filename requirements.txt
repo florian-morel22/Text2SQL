@@ -1,4 +1,5 @@
 sqlparse
 sqlvalidator
 
+python-dotenv
 datasets
